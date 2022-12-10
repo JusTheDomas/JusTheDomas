@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JusTheDomas
-- C++/Java
+- Front end sucks
 - Discord: JusTheDomas#6900
 
 <!---
